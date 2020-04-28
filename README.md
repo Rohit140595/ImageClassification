@@ -1,7 +1,7 @@
 # ImageClassification
 STAT 654 Project
 
-Data files used can be downloaded from [here](https://drive.google.com/open?id=1IHTCxt5FGDS5Smr8JpRDQpwyPFbKUE5d) (TAMU email needed). 
+Data files used in a few of the notebooks can be downloaded from [here](https://drive.google.com/open?id=1IHTCxt5FGDS5Smr8JpRDQpwyPFbKUE5d) (TAMU email needed). 
 
 - stat654_01_traditional.ipynb constains Un-tuned models both with and without HOG feature extration
 - stat654_cnn.ipynb constants CNN code
